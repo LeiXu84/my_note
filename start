@@ -1,2 +1,15 @@
 today is sunday
-we are working hard for tommorrow.
+we are working hard for tommorrow
+numpy 中文网站https://www.numpy.org.cn/.
+数据类型Ndarray
+参数：object、dtype、copy、order、subok（默认返回一个与基类类型一致的数组）、ndim
+数组属性：ndarray.ndim\ndarray.shape\ndarray.size\ndarray.itemsize\ndarray.flags(内存信息）\ndarray.real\ndarray.imag\ndarray.date
+创建数组
+numpy.empty
+创建空数组
+参数：(shape/dtype/order(有"C"和"F"两个选项,分别代表，行优先和列优先，在计算机内存中的存储元素的顺序))
+numpy.zeros\numpy.ones\
+numpy 随机数组https://blog.csdn.net/pipisorry/article/details/39508417
+numpy.random模块能够产生不同概率分布的数组形式
+需要scipy库的支持
+
